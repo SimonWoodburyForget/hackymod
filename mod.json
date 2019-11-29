@@ -1,4 +1,4 @@
-name: "\"><script>alert(\"testy\");</script>"
+name: hackymod
 author: Simon
-description: 'do you see what I see?'
+description: '''do you see what I see? <script>alert("hacky stuff");</script>'''
 version: oh.no

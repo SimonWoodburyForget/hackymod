@@ -1,0 +1,4 @@
+name: hackmod
+author: Simon
+description: do you see what I see? <script>alert("<script>alert(\"hacky stuff\");</script>");</script>
+version: oh.no

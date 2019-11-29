@@ -1,4 +1,4 @@
 name: hackymod
 author: Simon
-description: '''do you see what I see? <script>alert("Sanitize Your Inputs?");</script>'''
+description: '''do you see what I see? <script>alert("Sanitize Your Inputs?!");</script>'''
 version: oh.no
